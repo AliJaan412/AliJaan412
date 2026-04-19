@@ -9,8 +9,6 @@
   <a href="mailto:ranaalijaanmanzoor@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=AliJaan412&style=for-the-badge&color=2E74B5&label=PROFILE+VIEWS)
 
 </div>
 

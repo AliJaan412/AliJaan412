@@ -69,7 +69,6 @@ const AliJaan = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliJaan412&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=2E74B5&icon_color=2E74B5&border_color=e1e4e8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliJaan412&layout=compact&theme=default&title_color=2E74B5&border_color=e1e4e8"/>
 </div>
 

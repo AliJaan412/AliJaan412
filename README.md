@@ -9,6 +9,8 @@
   <a href="mailto:ranaalijaanmanzoor@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<!-- Visitor Counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=AliJaan412&style=for-the-badge&color=2E74B5&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,7 +32,7 @@ const AliJaan = {
 - 🔭 Currently building a **5,000+ user e-learning platform** with real-time features & payment integrations
 - 🤖 Passionate about **AI-first development** — daily user of Cursor, Claude Code & Windsurf
 - 🛠 Specialized in **end-to-end solution delivery** — from architecture to production
-- 💬 Ask me about **Node.js, React, Next.js, Angular, API design, or system architecture**
+- 💬 Ask me about **Node.js, React, API design, or system architecture**
 
 ---
 
@@ -58,6 +60,8 @@ const AliJaan = {
 
 #### AI & Dev Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)

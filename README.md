@@ -32,7 +32,7 @@ const AliJaan = {
 - 🔭 Currently building a **5,000+ user e-learning platform** with real-time features & payment integrations
 - 🤖 Passionate about **AI-first development** — daily user of Cursor, Claude Code & Windsurf
 - 🛠 Specialized in **end-to-end solution delivery** — from architecture to production
-- 💬 Ask me about **Node.js, React, API design, or system architecture**
+- 💬 Ask me about **Node.js, React, Next.js, Angular, API design, or system architecture**
 
 ---
 
@@ -79,9 +79,9 @@ const AliJaan = {
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| **E-TutorsCity** | Tutoring marketplace with AI-powered matching & payments | MEAN Stack | [Live ↗](https://hirealijaan.com) |
-| **E-ExamPrepCity** | Exam prep platform with 24/7 AI mentor | MEAN Stack | [Live ↗](https://hirealijaan.com) |
-| **HR Management System** | Enterprise RBAC platform with real-time workflows | Next.js + Node.js | [Live ↗](https://hirealijaan.com) |
+| **E-TutorsCity** | Tutoring marketplace with AI-powered matching & payments | MEAN Stack | [Live ↗](https://e-tutorscity.com/) |
+| **E-ExamPrepCity** | Exam prep platform with 24/7 AI mentor | MEAN Stack | [Live ↗](https://e-examprepcity.com/) |
+| **HR Management System** | Enterprise RBAC platform with real-time workflows | Next.js + Node.js | [Live ↗](https://people.apac.microagility.com/) |
 
 ---
 

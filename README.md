@@ -30,7 +30,7 @@ const AliJaan = {
 - 🔭 Currently building a **5,000+ user e-learning platform** with real-time features & payment integrations
 - 🤖 Passionate about **AI-first development** — daily user of Cursor, Claude Code & Windsurf
 - 🛠 Specialized in **end-to-end solution delivery** — from architecture to production
-- 💬 Ask me about **Node.js, React, API design, or system architecture**
+- 💬 Ask me about **React, Next.js, Angular, Node.js, API design, or system architecture**
 
 ---
 

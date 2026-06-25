@@ -103,21 +103,13 @@ new Worker(
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliJaan412&layout=compact&theme=default&title_color=2E74B5&border_color=e1e4e8"/>
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
 | **E-TutorsCity** | Tutoring marketplace with scheduling, AI-powered matching & secure payments | MEAN Stack | [Live ↗](https://e-tutorscity.com/) |
-| **E-LawyerCity** | Ethiopia's first virtual legal office — lawyer discovery, video consults & digital case management | Full Stack | MVP |
-| **AgileBrains** | Microservices recruitment & applicant tracking platform with job posting, application tracking & interview notifications | Microservices | Private |
+| **E-LawyerCity** | Ethiopia's first virtual legal office — lawyer discovery, video consults & digital case management | Full Stack | [Live ↗](https://e-lawyerscity.com/) |
+| **AgileBrains** | Microservices recruitment & applicant tracking platform with job posting, application tracking & interview notifications | Microservices | [Live ↗](https://agilebrains.com/) |
 
 ---
 

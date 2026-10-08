@@ -19,7 +19,7 @@
 const AliJaan = {
   role:        "Full Stack Developer",
   location:    "Lahore, Pakistan 🇵🇰",
-  experience:  "3+ years",
+  experience:  "3.5+ years",
   focus:       ["Full Stack Apps", "AI Integration", "API & System Design"],
   currentWork: "Building scalable platforms @ Bright Techno Tonic",
   portfolio:   "https://hirealijaan.com",

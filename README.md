@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2E74B5&height=180&section=header&text=Ali%20Jaan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20RAG%20%26%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1>Hi 👋, I'm Ali Jaan</h1>
+<h3>Full Stack Engineer · RAG &amp; AI Systems</h3>
 
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2E74B5&center=true&vCenter=true&width=640&lines=Shipping+production+systems+end+to+end;Building+bilingual+RAG+on+Qdrant+%2B+OpenAI;Scaling+platforms+to+20K%2B+active+users;Payments+at+99.9%25+uptime%2C+zero+critical+failures)](https://git.io/typing-svg)
@@ -171,6 +172,4 @@ def search(queries: list[str], limit: int = 40):
 <div align="center">
   <i>Open to senior Full Stack and AI engineering roles: platforms, RAG and LLM systems.</i><br/><br/>
   <a href="https://hirealijaan.com"><b>hirealijaan.com</b></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E74B5,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 </div>

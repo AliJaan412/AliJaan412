@@ -4,7 +4,7 @@
 <h3>Full Stack Engineer · RAG &amp; AI Systems</h3>
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2E74B5&center=true&vCenter=true&width=640&lines=Shipping+production+systems+end+to+end;Building+bilingual+RAG+on+Qdrant+%2B+OpenAI;Scaling+platforms+to+20K%2B+active+users;Payments+at+99.9%25+uptime%2C+zero+critical+failures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2E74B5&center=true&vCenter=true&width=640&lines=Shipping+production+systems+end+to+end;Bilingual+RAG+over+20K%2B+documents%2C+2-3s+answers;Scaling+platforms+to+50K%2B+active+users;Payments+at+99.9%25+uptime%2C+zero+critical+failures)](https://git.io/typing-svg)
 
 <p>
   <a href="https://hirealijaan.com"><img src="https://img.shields.io/badge/Portfolio-hirealijaan.com-2E74B5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -23,16 +23,16 @@
 const aliJaan = {
   role:        "Full Stack Engineer",
   location:    "Lahore, Pakistan 🇵🇰",
-  experience:  "5+ years",
+  experience:  "4 years",
   focus:       ["Production RAG & LLM systems", "Scalable SaaS platforms", "API & system architecture"],
   currentWork: "Platforms + AI assistants @ Bright Techno Tonic",
-  shipping:    ["Rumi AI (legal RAG)", "20K+ learner e-learning platform", "R2-backed course media"],
+  shipping:    ["Rumi AI (legal RAG)", "50K+ learner e-learning platform", "R2-backed course media"],
   principle:   "Know where it breaks under real load before it does.",
 };
 ```
 
-- 🧠 Building **Rumi AI**, a bilingual (Amharic / English) **RAG legal assistant** that cites the exact law and article for every answer
-- 🎓 Scaled an **e-learning platform to 20,000+ active learners** with live classes, payments and progress tracking
+- 🧠 Building **Rumi AI**, a bilingual (Amharic / English) **RAG legal assistant** over **20,000+ documents** that answers in **2–3 seconds** and cites the exact law and article
+- 🎓 Scaled an **e-learning platform to 50,000+ active learners** with live classes, payments and progress tracking
 - ☁️ Built a **course-media pipeline on Cloudflare R2 + CDN** for fast, low-cost video and document delivery
 - 🛠 I own the whole path: **architecture → build → release → production scale**
 - 💬 Ask me about **RAG, vector search, Node.js, NestJS, Angular, Next.js, FastAPI or system design**
@@ -135,7 +135,7 @@ def search(queries: list[str], limit: int = 40):
 
 | Project | What it is | Stack | Live |
 |--------|-------------|-------|------|
-| **Rumi AI** | Bilingual legal RAG assistant for Ethiopian law, citing exact articles with a confidence score | FastAPI · Qdrant · OpenAI | Part of E-LawyerCity |
+| **Rumi AI** | Bilingual legal RAG assistant over 20K+ documents, answering in 2–3s and citing exact articles | FastAPI · Qdrant · OpenAI | Part of E-LawyerCity |
 | **E-TutorsCity** | Tutoring marketplace with time-zone-safe scheduling, AI matching and payment-backed bookings | MEAN Stack | [Live ↗](https://e-tutorscity.com/) |
 | **E-LawyerCity** | Ethiopia's first virtual legal office: lawyer discovery, video consults, case-scoped records | MEAN Stack | [Live ↗](https://e-lawyerscity.com/) |
 | **AgileBrains** | Recruitment & ATS platform split into independently scaling microservices | Microservices | [Live ↗](https://agilebrains.com/) |
@@ -146,8 +146,9 @@ def search(queries: list[str], limit: int = 40):
 
 | | |
 |---|---|
+| 🧠 **RAG over 20,000+ documents** | thousands of pages, bilingual, answers in **2–3 seconds** |
 | 🏗 **10+ production systems** | owned end to end, from architecture to go-live |
-| 📈 **20,000+ active learners** | on an e-learning platform with live classes and progress tracking |
+| 📈 **50,000+ active learners** | on an e-learning platform with live classes and progress tracking |
 | 💳 **4 payment gateways** | Stripe, PayPal, Chapa, TeleBirr: USD 10K+/month at **99.9% uptime**, zero critical failures |
 | ⚡ **40% lower API latency** | caching and query redesign |
 | 🗄 **60% faster data layer** | targeted MongoDB index strategy |

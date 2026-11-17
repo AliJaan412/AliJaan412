@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Ali Jaan</h1>
-<h3>Full Stack Engineer · RAG &amp; AI Systems</h3>
+<h3>Full Stack AI Developer · RAG &amp; AI Systems</h3>
 
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2E74B5&center=true&vCenter=true&width=640&lines=Shipping+production+systems+end+to+end;Bilingual+RAG+over+20K%2B+documents%2C+2-3s+answers;Scaling+platforms+to+50K%2B+active+users;Payments+at+99.9%25+uptime%2C+zero+critical+failures)](https://git.io/typing-svg)
@@ -21,7 +21,7 @@
 
 ```typescript
 const aliJaan = {
-  role:        "Full Stack Engineer",
+  role:        "Full Stack AI Developer",
   location:    "Lahore, Pakistan 🇵🇰",
   experience:  "4 years",
   focus:       ["Production RAG & LLM systems", "Scalable SaaS platforms", "API & system architecture"],
